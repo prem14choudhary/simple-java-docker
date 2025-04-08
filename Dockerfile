@@ -1,4 +1,4 @@
-# stable official Java runtime 
+# stable official Java runtime
 FROM openjdk:17-jdk-alpine
 
 # metadata
